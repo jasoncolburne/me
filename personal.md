@@ -7,7 +7,6 @@ is like, what the medication does, and what my experiences with health authoriti
 it's important for others to understand my perspective and those of others like me.
 
 Here are some highlights. I:
-- Experienced mental trauma at an early age.
 - Almost failed to graduate university due to depression.
 - Wasn't recognized to have schizophrenia until my early 30s.
 - Suffered psychosis for several years.
