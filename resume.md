@@ -87,7 +87,7 @@ Staff software engineer with 20+ years of experience spanning cryptographic syst
 
 ## Education
 
-**Honours Bachelor's Degree in Matehmatics, Minors in Computer Science and Physics**
+**Honours Bachelor's Degree in Mathematics, Minors in Computer Science and Physics**
 Mount Allison University
 
 ## Other Projects
