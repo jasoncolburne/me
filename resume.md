@@ -2,20 +2,24 @@
 
 ## Summary
 
-Senior software engineer with 20+ years of experience spanning cryptographic systems, distributed computing, embedded systems, and full-stack development. Expertise in building secure, scalable systems from low-level hardware integration to cloud-native applications. Co-founded multiple startups and led engineering organizations.
+Staff software engineer with 20+ years of experience spanning cryptographic systems, distributed computing, embedded systems, and full-stack development. Expertise in building secure, scalable systems from low-level hardware integration to cloud-native applications. Co-founded multiple startups and led engineering organizations.
 
 ## Skills
 
 **Languages**: C, C++, Rust, Python, Ruby, Go, JavaScript/TypeScript, Assembly (x86), ...
+
 **Security**: Cryptography, Secure Boot, TPM, HSM, Hardware Security
+
 **Systems**: Distributed Systems, Kafka, Database Migration, RTOS, Embedded Linux
+
 **Cloud & Infrastructure**: AWS (Aurora, S3, SQS, Rekognition), Distributed Computing
+
 **Domains**: Financial Technology, Identity & Verification, IoT Security, Mobile Development
 
 ## Professional Experience
 
 ### Certn (October 2025 - Present)
-**Senior Software Engineer**
+**Staff Software Engineer**
 - Improved onboarding processes and mentored new hires
 - Released broad API feature enabling new vertical market slice and customer retention
 - Planning migration to decentralized architecture
