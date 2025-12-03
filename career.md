@@ -340,9 +340,9 @@ media (things like facebook apps). They were pretty basic so I won't describe th
 
 ## Wave
 
-Wave is my current employer. At this job, I've learned a lot about distributed computing at scale and I am
-grateful for the opportunity I've had. I have touched nearly every product at the company and I am now in
-a position where I help guide the engineering organization's efforts to improve our craft.
+At this job, I learned a lot about distributed computing at scale and I am
+grateful for the opportunity I had. I touched nearly every product at the company and was in
+a position where I helped guide the engineering organization's efforts to improve our craft.
 
 ### Invoicing Migration
 
@@ -425,19 +425,69 @@ For this, I:
 matching the performance of the original implementation due to framework constraints).
 - Paired with colleagues to get the api and front-end layers worked out
 
-### Current Projects
-
-I am not going to list any of my ongoing projects but I'll update this page with high level details as they
-are completed. They are exciting to me and have broad impact across the organization. I will mention for
-completeness that I now have experience with distributed transactions.
-
 ### Other Duties
 
 I:
-- Lead two working groups (`Reactive Systems` and `Resilience and Fault Tolerance`)
-- Mentor other developers
-- Am a member of the site-wide on-call rotation
-- Assist the DevOps team
-- Assist the Security team
-- Promote best practices across the organization
-- Develop onboarding materials
+- Led two working groups (`Reactive Systems` and `Resilience and Fault Tolerance`)
+- Mentored other developers
+- Was a member of the site-wide on-call rotation
+- Assisted the DevOps team
+- Assisted the Security team
+- Promoteed best practices across the organization
+- Developed onboarding materials
+
+## goConfirm
+
+goConfirm was a seed round startup that I co-founded. I was also the Principal Engineer. In this role, over three years, I built a highly tuned engineering organization with deep technical roots. We had to spin the product down because we only acquired 70,000 (consumer, unpaying) users in our last year of operation. During the AI revolution, this was not enough to whet the appetites of investors. Nonetheless, we produced a 5 star app and released features like secure messaging in under 4 months of developer time (less than 2 months with 2 devs).
+
+The primary mission of goConfirm was to increase trust online, and allow individuals
+to interact safely. We were attempting to deploy a new technology, Decentralized Identity, to accomplish this.
+
+### Responsibilities
+
+- Last word in all technical decisions (Our company had no CTO)
+- Leading a team of 4-6 engineers
+- Building everything
+- Communicating with stakeholders
+- Board meetings
+
+### The Platform
+
+goConfirm was primarily a Golang application. The thing that made it really interesting was the way we handled data. We used decentralized techniques from KERI (Key Event Receipt Infrastructure) to secure our datastore, and I noticed several other benefits after making this decision.
+
+Intially, I wrote a rust library with the intent of deploying to both our backend and mobile app. We ended up using it to secure identifiers for users, in the backend, in a python service. Sounds wild given that we were a mobile shop with a Golang backend, but it fit at the time.
+
+Application Features:
+- Secure messaging
+- Fraud Insurance (we successfully offered this, our setup allowed us to permanently ban bad actors)
+- Endorsements
+- Semi-anonymous connection
+
+Security Features:
+- ed25519 passphrase derived key based verification
+- secp256r1 hardware key based verification
+- hardware-signed requests
+- registration/auth binding to IDV
+- temper-evident data throughout
+- aes-256-gcm encrypted messaging
+
+Integrations:
+- AWS
+    - Aurora
+    - Rekognition 
+    - S3
+    - SQS
+- Persona (IDV)
+- Stream (Messaging)
+- Customer.io (Email/Push)
+- Zendesk (Support)
+- Slack (Company comms)
+- Segment.io (Analytics)
+
+## Certn
+
+I've worked at Certn since only October 2025, but in that short time I've had an impact by
+- making improvements to onboarding
+- onboarding new hires
+- releasing a broad API feature to retain a valuable customer and enable a new vertical market slice
+- planning a migration to a decentralized world (this is why they hired me)
