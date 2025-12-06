@@ -40,7 +40,7 @@ Staff software engineer with 20+ years of experience spanning cryptographic syst
 - Guided engineering organization's efforts to improve craft
 - **Invoicing Migration**: Migrated ~1 billion records from monolith to microservice
 - **Kafka Pioneer**: First end-to-end Kafka implementation, established best practices
-- **Covid Response**: Led dashboard implementation for government support policies
+- **Covid Response**: Participated in time-cricial dashboard implementation for government support policies
 - **Bills Migration**: Designed and led partial migration project
 - Led working groups (Reactive Systems, Resilience and Fault Tolerance)
 - Mentored developers, participated in on-call rotation, assisted DevOps and Security teams
