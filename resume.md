@@ -26,16 +26,16 @@ Staff software engineer with 20+ years of experience spanning cryptographic syst
 
 ### goConfirm (3 years)
 **Co-Founder & Principal Engineer**
-- Co-founded and built seed-stage startup focused on online trust and decentralized identity
+- Co-founded and built seed-stage startup focused on online trust and portable identity
 - Led engineering team of 4-6 engineers with final authority on technical decisions
-- Built 5-star mobile app with secure messaging delivered in under 4 months developer time
+- Built 5-star mobile app, with secure messaging delivered in under 4 months developer time
 - Implemented KERI (Key Event Receipt Infrastructure) for tamper-evident data
 - Architected Golang backend with ed25519 and secp256r1 hardware-based verification
 - Integrated AWS services, IDV provider, and multiple third-party platforms
 - Achieved 70,000 users before strategic pivot
 
 ### Wave (4.5 years)
-**Senior Software Engineer**
+**Senior Software Engineer -> Staff Software Engineer**
 - Learned distributed computing at scale touching nearly every product
 - Guided engineering organization's efforts to improve craft
 - **Invoicing Migration**: Migrated ~1 billion records from monolith to microservice
